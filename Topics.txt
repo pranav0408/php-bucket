@@ -1,3 +1,4 @@
 Include and Include Once
 Require and Require Once
 Php magic constants
+File Handling
