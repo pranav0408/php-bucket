@@ -1,0 +1,16 @@
+->  Types
+        
+        ->  Syntax or Parse
+                eg: variable not ddeclared with $
+        ->  Fatal err
+                eg: function not defined and being called
+        ->  Warnings
+                eg: in case of file being included that is not there.
+        ->  Notice
+                eg: using a variable that is not declared
+
+->  Handling
+
+        ->  Use a die function in if-else block
+        ->  Custom error function
+        
